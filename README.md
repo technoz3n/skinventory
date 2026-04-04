@@ -4,3 +4,9 @@
 - if it stops working: the game updated. wait for the statefarm devs to upload a new client key list.
 
 # do not dm me for help. if you cant figure it out from the instructions in the code, its not for you.
+
+## all credit goes to the statefarm developers for the client keys and base code
+- [https://github.com/StateFarmNetwork]
+- [https://github.com/Hydroflame522/StateFarmClient]
+- [https://github.com/enbyte]
+- [https://github.com/onlypuppy7]
